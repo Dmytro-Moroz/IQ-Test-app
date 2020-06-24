@@ -1,0 +1,9 @@
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\bin\Debug\IQTestApp.exe.config
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\bin\Debug\IQTestApp.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\bin\Debug\IQTestApp.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.Form1.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.Properties.Resources.resources
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.csproj.GenerateResource.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.exe
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\IQTestApp\IQTestApp\obj\Debug\IQTestApp.csprojAssemblyReference.cache
